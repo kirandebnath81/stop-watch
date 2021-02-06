@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&display=swap');
+
+body{
+    background-color: rgb(47, 10, 114);
+    font-family: 'Lora', serif;
+}
+
+.input-btn{
+    padding: 8px 22px;
+    font-size: 1.3rem;
+    border-radius: 7px;
+    margin: 20px;
+    background-color: aqua;
+    color: rgb(2, 2, 68);
+    font-weight: bold;
+    box-shadow: rgb(12, 3, 44) 3px 3px 16px 8px;
+    border: none;
+}
+.input-btn:hover{
+    background-color: rgb(17, 50, 71);
+    color: white;
+}
+
+.btn-container{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 2.4rem;
+
+}
+
+#output{
+    text-align: center;
+    color: white;
+    font-size: 2.2rem;
+   margin-top: 50px;
+   margin-bottom: 20px;
+}
